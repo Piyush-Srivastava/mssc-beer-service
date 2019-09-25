@@ -11,7 +11,7 @@ import piyush.tcs.msscbeerservice.web.model.BeerStyleEnum;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2019-09-19T20:11:00+0530",
+    date = "2019-09-25T18:38:39+0530",
     comments = "version: 1.3.0.Final, compiler: javac, environment: Java 11.0.4 (Oracle Corporation)"
 )
 @Component
